@@ -12,7 +12,7 @@ const cards = [
     url: 'https://placekitten.com/400/300',
   },
   {
-    url: 'https://placekitten.com/400/300',
+    url: 'https://placekitten.com/400/800',
   },
 ];
 
