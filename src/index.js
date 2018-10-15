@@ -8,6 +8,9 @@ const cards = [
   {
     url: 'https://placekitten.com/200/300',
   },
+  {
+    url: 'https://placekitten.com/400/300',
+  },
 ];
 
 function App() {
